@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm twilight_mu</h1>
+<h1 align="center">Hi there👋, I'm Twilight_mu</h1>
 
 - 🔭 I’m currently studying on <b>Nanjing University of Science and Technology</b>
 - 🌱 My major is <b>Computer Science and Technology</b>
