@@ -6,7 +6,7 @@
 - 😄 Pronouns: Sleeping and eating 
 
 <a href="https://github.com/twilight-mu">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=twilight-mu&show_icons=true&locale=en" alt="lerogo" height="180" style="margin: 5px; margin-bottom: 20px;" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=twilight-mu&show_icons=true&locale=en" alt="twilight-mu" height="180" style="margin: 5px; margin-bottom: 20px;" /></a>
 <a href="https://github.com/twilight-mu">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twilight-mu&layout=compact&langs_count=20&locale=en" alt="lerogo" height="180"  style="margin: 5px; margin-bottom: 20px;"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twilight-mu&layout=compact&langs_count=20&locale=en" alt="twilight-mu" height="180"  style="margin: 5px; margin-bottom: 20px;"/>
 </a>
