@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Twilight_mu</h1>
 
 - 🔭 I’m currently studying on <b>BeiHang University</b>
-- 🌱 My major is <b>Virtual Reality</b>
+- 🌱 My major is <b>Virtual Reality(Computer Graphics)</b>
 - 📫 How to reach me: **twilightmu@qq.com**
 - 😄 Pronouns: Sleeping and eating 
 
