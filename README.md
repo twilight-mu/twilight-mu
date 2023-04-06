@@ -7,6 +7,7 @@
 
 <a href="https://github.com/twilight-mu">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=twilight-mu&show_icons=true&locale=en&theme=tokyonight" alt="twilight-mu" height="180" style="margin: 5px; margin-bottom: 20px;" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twilight-mu)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/twilight-mu">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twilight-mu&layout=compact&langs_count=20&locale=en&theme=tokyonight" alt="twilight-mu" height="180"  style="margin: 5px; margin-bottom: 20px;"/>
 </a>
