@@ -25,19 +25,19 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/twilight-mu">
     <img src="https://badges.strrl.dev/visits/twilight-mu/twilight-mu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/twilight-mu">
     <img src="https://badges.strrl.dev/years/twilight-mu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve?tab=repositories">
+  <a href="https://github.com/twilight-mu?tab=repositories">
     <img src="https://badges.strrl.dev/repos/twilight-mu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/Charmve">
+  <a href="https://gist.github.com/twilight-mu">
     <img src="https://badges.strrl.dev/gists/twilight-mu?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/twilight-mu">
     <img src="https://badges.strrl.dev/commits/monthly/twilight-mu?style=flat-square&color=black&logo=github">
   </a>
 </p>
