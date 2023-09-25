@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on <b>BeiHang University</b>
 - 🌱 My major is <b>Virtual Reality(Computer Graphics)</b>
-- 📫 How to reach me: **twilightmu@qq.com**
+- 📫 How to reach me: **twilightmu@qq.com** or **sunaoxin@buaa.edu.cn**
 - 😄 Pronouns: Sleeping and eating
 <h2></h2>
 <p align="center">
