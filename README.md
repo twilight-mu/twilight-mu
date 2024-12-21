@@ -42,5 +42,7 @@
   </a>
 </p>
 <h2></h2>
-
+    My faith, my beloved.
+    <img src="https://github.com/twilight-mu/twilight-mu/blob/master/belief.jpg">
+<h2></h2>
 👈 Follow me on the left 😄
