@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying on <b>BeiHang University</b>
 - 🌱 My major is <b>Virtual Reality(Computer Graphics)</b>
 - 📫 How to reach me: **twilightmu@qq.com** or **sunaoxin@buaa.edu.cn**
-- 😄 Pronouns: Studying and Coding
+- 😄 Pronouns: Offer!!!!! Where is offer!!!!!
 <h2></h2>
 <p align="center">
   <a href="https://github.com/twilight-mu">
