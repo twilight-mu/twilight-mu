@@ -1,8 +1,8 @@
 <h1 align="center">Ciallo~~~👋, I'm Twilight_mu</h1>
 
 - 🔭 I’m currently working on <b>Tencent IEG - Aurora A2 Group</b>
-- 🌱 My major is <b>Virtual Reality(Computer Graphics)</b>
-- 📫 How to reach me: **twilightmu@qq.com** or **sunaoxin@buaa.edu.cn**
+- 🌱 My major is <b>Virtual Reality(Computer Graphics)</b>. I am now working as a games development engineer(Unity, UE, and Godot).
+- 📫 How to reach me: **twilightmu@qq.com** or **twilightumisun@gmail.com**.
 - 😄 Pronouns: Working and Coding.
 <h2></h2>
 <p align="center">
